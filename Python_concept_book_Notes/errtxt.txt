@@ -1,0 +1,24 @@
+Traceback (most recent call last):
+  File "C:\Users\USER\AppData\Local\Temp/ipykernel_18520/1485505709.py", line 17, in <module>
+    passWord(l)
+  File "C:\Users\USER\AppData\Local\Temp/ipykernel_18520/1485505709.py", line 12, in passWord
+    raise Exception('密碼長度過長')
+Exception: 密碼長度過長
+Traceback (most recent call last):
+  File "C:\Users\USER\AppData\Local\Temp/ipykernel_18520/1485505709.py", line 17, in <module>
+    passWord(l)
+  File "C:\Users\USER\AppData\Local\Temp/ipykernel_18520/1485505709.py", line 10, in passWord
+    raise Exception('密碼長度不足')
+Exception: 密碼長度不足
+Traceback (most recent call last):
+  File "C:\Users\USER\AppData\Local\Temp/ipykernel_18520/3856216230.py", line 19, in <module>
+    passWord(l)
+  File "C:\Users\USER\AppData\Local\Temp/ipykernel_18520/3856216230.py", line 12, in passWord
+    raise Exception('密碼長度過長')
+Exception: 密碼長度過長
+Traceback (most recent call last):
+  File "C:\Users\USER\AppData\Local\Temp/ipykernel_18520/3856216230.py", line 19, in <module>
+    passWord(l)
+  File "C:\Users\USER\AppData\Local\Temp/ipykernel_18520/3856216230.py", line 10, in passWord
+    raise Exception('密碼長度不足')
+Exception: 密碼長度不足
